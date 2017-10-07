@@ -2,6 +2,10 @@
 
 Manual picked bot of Telegram.
 
+## Assistance
+
+- [VoteBot](https://t.me/vote) / @vote - 创建投票
+
 ## Inline Bot
 
 不需要和 bot 对话，在其他的任意对话中：`@botName 参数1 参数2` 就可以使用了。
