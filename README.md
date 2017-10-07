@@ -12,6 +12,7 @@ Manual picked bot of Telegram.
 ## Picture and Movie
 
 - [ImageBot](https://t.me/imagebot) / @ImageBot - 搜索图片或 gif 图
+- [YouTube Bot](https://t.me/youtube) / @youtube - 既能像 @vid 那样直接搜索分享，还能绑定 YouTube 帐号推送频道中新增的视频
 
 ## License
 
