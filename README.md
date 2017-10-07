@@ -2,7 +2,9 @@
 
 Manual picked bot of Telegram.
 
+## Picture and Movie
 
+- [ImageBot](https://t.me/imagebot) / @ImageBot - 搜索图片或 gif 图
 
 ## License
 
