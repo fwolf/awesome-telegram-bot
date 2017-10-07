@@ -5,7 +5,7 @@ Manual picked bot of Telegram.
 ## Assistance
 
 - [LikeBot](https://t.me/like) / @like - 给消息加上 emoji 按钮，用户可以点击，计数，比如 👍 / 👎。
-- [VoteBot](https://t.me/vote) / @vote - 创建投票。
+- [VoteBot](https://t.me/vote) / @vote - 创建投票，比 @PollBot 形式更直观，用按钮投票，产生群聊消息更少。
 
 ## Inline Bot
 
