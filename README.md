@@ -7,6 +7,7 @@ Manual picked bot of Telegram.
 不需要和 bot 对话，在其他的任意对话中：`@botName 参数1 参数2` 就可以使用了。
 
 - [Giphy GIF Search](https://t.me/gif) / @gif - 搜索 gif 图
+- [YouTube Search](https://t.me/vid) / @vid - 搜索 YouTube 视频并分享
 
 ## Picture and Movie
 
