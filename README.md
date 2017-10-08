@@ -2,7 +2,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T16:04:13+08:00, r19 .
+// Last Modified: 2017-10-08T16:06:59+08:00, r20 .
 
 ## Assistance
 
@@ -17,6 +17,9 @@ Manual picked bot of Telegram.
 - [PosterBot](https://t.me/pstrbot) / @pstrbot - 监控 Twitter, Instgram 等网站帐号并发送到 Telegram。需要使用自建 bot token，设置略麻烦。抓 Tumblr 内容可能有问题。
 
 ## Index and Search
+
+- [Findo](https://t.me/FindoBot) / @FindoBot - 连接 Evernote, Gmail 等帐号，然后从中搜索信息。用他来进行简单的 Evernote 笔记搜索不错。
+
 
 - [Telegram Store Bot](https://t.me/storebot) / @storebot - Bot 索引、排名、查找。
 - [TGCN-群组频道狼😋](https://t.me/zh_groups_bot) / @zh_groups_bot - 按分类查找，列表中有群人数。
