@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T18:37:07+08:00, r49 .
+// Last Modified: 2017-10-08T18:39:43+08:00, r50 .
 
 
 
@@ -41,6 +41,7 @@ Manual picked bot of Telegram.
 - [GroupHub](https://t.me/GroupHub_bot) / @GroupHub_bot - 群索引，只有按分类列表。
 - [Telegram Store Bot](https://t.me/storebot) / @storebot - Bot 索引、排名、查找。
 - [TGCN-群组频道狼😋](https://t.me/zh_groups_bot) / @zh_groups_bot - 按分类查找，列表中有群人数。
+- [频道大全-TG上的Hao123](https://t.me/hao1234bot) / @hao1234bot - 可以按频道、群组、机器人列表，有人数显示。有推荐功能，其实就是随机列出一些群，无聊时可以转转看。
 
 
 
