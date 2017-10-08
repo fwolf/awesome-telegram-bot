@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T18:30:59+08:00, r47 .
+// Last Modified: 2017-10-08T18:35:04+08:00, r48 .
 
 
 
@@ -30,6 +30,7 @@ Manual picked bot of Telegram.
   - 用户交流群：参见 [官方支持频道 @EFBSupport](https://t.me/EFBSupport) 中的 [消息](https://t.me/EFBSupport/19) 。
 - [IFTTT](https://t.me/IFTTT) / @IFTTT - 通过 IFTTT 连接其他服务，支持的功能有限，只有发tg私信、读tg公开频道文字和图片等，胜在支持的其他服务比较多。
 - [PosterBot](https://t.me/pstrbot) / @pstrbot - 监控 Twitter, Instgram 等网站帐号并发送到 Telegram。需要使用自建 bot token，设置略麻烦。抓 Tumblr 内容可能有问题。
+- [TweetItBot](https://t.me/TweetItBot) / @TweetItBot - 可以说是个 Twitter 客户端了，除了 DM 的功能都有了，推荐。甚至可以绑定到群组中大家一起用，作者说唯一的限制是 Twitter API。
 
 
 
