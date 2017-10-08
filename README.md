@@ -2,7 +2,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T16:06:59+08:00, r20 .
+// Last Modified: 2017-10-08T16:16:39+08:00, r21 .
 
 ## Assistance
 
@@ -31,6 +31,10 @@ Manual picked bot of Telegram.
 - [Giphy GIF Search](https://t.me/gif) / @gif - 搜索 gif 图。
 - [StickerBot](https://t.me/sticker) / @sticker - 按 emoji 搜贴纸，用来找陌生贴纸有点用。
 - [YouTube Search](https://t.me/vid) / @vid - 搜索 YouTube 视频并分享。
+
+## Miscellaneous Tools
+
+- [Nagato Yuki](https://t.me/SBisnotBot) / @SBisnotBot - 查询 AQI、获取随机图片等。但个人觉得最有用且没文档的功能是，给他发一个包含多张图片的 Twitter 推文地址，他会把几张图片都下载下来发到 Telegram 上，而 Telegram 预览只能看到一张。
 
 ## Picture and Movie
 
