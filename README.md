@@ -2,6 +2,8 @@
 
 Manual picked bot of Telegram.
 
+// Last Modified: 2017-10-08T11:47:04+08:00, r13 .
+
 ## Assistance
 
 - [LikeBot](https://t.me/like) / @like - 给消息加上 emoji 按钮，用户可以点击，计数，比如 👍 / 👎。
