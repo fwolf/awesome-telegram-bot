@@ -4,13 +4,14 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T17:39:03+08:00, r37 .
+// Last Modified: 2017-10-08T17:47:29+08:00, r38 .
 
 
 
 ## Assistance
 
 - [ChannelBro](https://t.me/ChannelBroBot) / @ChannelBroBot - 帮助管理频道或群，发送消息，绑定 RSS 等，功能略少。
+- [Channels](https://t.me/junction_bot) / @junction_bot - 将多个频道合并转发到频道或群组。收费服务，免费帐号限定 10 个活动频道。自动给一个月的收费帐号体验，限定 100 个活动频道。
 - [Group Butler](https://t.me/GroupButler_bot) / @GroupButler_bot - 帮助管理群组，比如发送新成员欢迎信息，防灌水等等。功能还不错，老牌工具。
 - [LikeBot](https://t.me/like) / @like - 给消息加上 emoji 按钮，用户可以点击，计数，比如 👍 / 👎。
 - [Manybot](https://t.me/Manybot) / @Manybot - 帮你创建自己的 bot，可以自动回复、定时发信息等，高级功能比较复杂，还能定制菜单什么的。
