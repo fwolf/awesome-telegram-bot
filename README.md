@@ -2,12 +2,16 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T11:47:04+08:00, r13 .
+// Last Modified: 2017-10-08T12:18:35+08:00, r14 .
 
 ## Assistance
 
 - [LikeBot](https://t.me/like) / @like - 给消息加上 emoji 按钮，用户可以点击，计数，比如 👍 / 👎。
 - [VoteBot](https://t.me/vote) / @vote - 创建投票，比 @PollBot 形式更直观，用按钮投票，产生群聊消息更少。
+
+## Connect with Services
+
+- [**EH Forwarder Bot** (EFB)](https://github.com/blueset/ehForwarderBot) / @EFBSupport - 连通 Telegram 与其他聊天工具，比如微信。这并不是一个可以直接使用的 bot，而是需要自己有主机、自建 bot 运行，配置略复杂。
 
 ## Index and Search
 
