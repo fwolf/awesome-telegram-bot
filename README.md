@@ -2,7 +2,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T12:18:35+08:00, r14 .
+// Last Modified: 2017-10-08T12:21:58+08:00, r15 .
 
 ## Assistance
 
@@ -15,7 +15,8 @@ Manual picked bot of Telegram.
 
 ## Index and Search
 
-- [Telegram Store Bot](https://t.me/storebot) / @storebot - Bot 索引、排名、查找
+- [Telegram Store Bot](https://t.me/storebot) / @storebot - Bot 索引、排名、查找。
+- [TGCN-群组频道狼😋](https://t.me/zh_groups_bot) / @zh_groups_bot - 按分类查找，列表中有群人数。
 
 ## Inline Bot
 
