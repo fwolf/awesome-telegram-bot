@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T17:58:00+08:00, r41 .
+// Last Modified: 2017-10-08T18:05:00+08:00, r42 .
 
 
 
@@ -65,6 +65,7 @@ Manual picked bot of Telegram.
 
 ## Picture and Movie
 
+- [File Converter](https://t.me/FileConverterBot) / @FileConverterBot - 图片、视频、音频格式转换。输入文件限 20M，输出文件限 50M。
 - [GifTube](https://t.me/giftubebot) / @giftubebot - 截取 YouTube, Vimeo 视频并以 gif 形式发到 Telegram。可以指定时间，最长截取 30 秒。画面大小限定不可设置，稍小了点。
 - [ImageBot](https://t.me/imagebot) / @ImageBot - 搜索图片或 gif 图。
 - [insta Downloader](https://t.me/InstagramRobot) / @InstagramRobot - 下载给定 Instagram 网址对应的图片或视频。
