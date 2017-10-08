@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T17:56:39+08:00, r40 .
+// Last Modified: 2017-10-08T17:58:00+08:00, r41 .
 
 
 
@@ -18,7 +18,6 @@ Manual picked bot of Telegram.
 - [MarkdownBot](https://t.me/mdrobot) / @mdrobot - 格式化 Markdown 格式的信息。也可以工作在 inline 模式下。
 - [Telegraph](https://t.me/telegraph) / @telegraph - 登录 https://telegra.ph 并管理文章，可以看到浏览计数。文章多的时候管理起来可能不是那么方便。
 - [VoteBot](https://t.me/vote) / @vote - 创建投票，比 @PollBot 形式更直观，用按钮投票，产生群聊消息更少。
-- [Yandex.Translate](https://t.me/YTranslateBot) / @YTranslateBot - 翻译，可选择从什么语言翻译到什么语言。翻译单词略简单，但支持整句翻译。
 
 
 
@@ -60,6 +59,7 @@ Manual picked bot of Telegram.
 - [Fake Mail](https://t.me/fakemailbot) / @fakemailbot - 生成临时邮箱地址，可以收到信的。可以生成多个，可以随时删除。
 - [Nagato Yuki](https://t.me/SBisnotBot) / @SBisnotBot - 查询 AQI、获取随机图片等。但个人觉得最有用且没文档的功能是，给他发一个包含多张图片的 Twitter 推文地址，他会把几张图片都下载下来发到 Telegram 上，而 Telegram 预览只能看到一张。
 - [WordBot](https://t.me/LexicoBot) / @LexicoBot - 英英词典。
+- [Yandex.Translate](https://t.me/YTranslateBot) / @YTranslateBot - 翻译，可选择从什么语言翻译到什么语言。翻译单词略简单，但支持整句翻译。
 
 
 
