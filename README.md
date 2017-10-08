@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T17:14:58+08:00, r29 .
+// Last Modified: 2017-10-08T17:18:18+08:00, r30 .
 
 
 
@@ -31,6 +31,7 @@ Manual picked bot of Telegram.
 ## Index and Search
 
 - [Findo](https://t.me/FindoBot) / @FindoBot - 连接 Evernote, Gmail 等帐号，然后从中搜索信息。用他来进行简单的 Evernote 笔记搜索不错。
+- [GroupHub](https://t.me/GroupHub_bot) / @GroupHub_bot - 群索引，只有按分类列表。
 - [Telegram Store Bot](https://t.me/storebot) / @storebot - Bot 索引、排名、查找。
 - [TGCN-群组频道狼😋](https://t.me/zh_groups_bot) / @zh_groups_bot - 按分类查找，列表中有群人数。
 
