@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T17:31:22+08:00, r34 .
+// Last Modified: 2017-10-08T17:33:40+08:00, r35 .
 
 
 
@@ -72,6 +72,7 @@ Manual picked bot of Telegram.
 
 - [Favorite Stickers](https://t.me/FavoriteStickersBot) / @FavoriteStickersBot - 把一些单张贴纸发给他，他帮你生成一个贴纸集。不过好像一个用户只支持一个贴纸集，如果能支持多个就相当好用了。
 - [Sticker to image](https://t.me/st2imgbot) / @st2imgbot - 把单张贴纸转换成 png 图片。
+- [StickerSetBot](https://t.me/stickerset2packbot) / @stickerset2packbot - 发给他贴纸，帮你转换成图片打包下载。一个包最多一百张贴纸。可自定义格式和图片尺寸。
 
 
 
