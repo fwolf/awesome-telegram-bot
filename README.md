@@ -4,13 +4,14 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T17:33:40+08:00, r35 .
+// Last Modified: 2017-10-08T17:36:15+08:00, r36 .
 
 
 
 ## Assistance
 
 - [ChannelBro](https://t.me/ChannelBroBot) / @ChannelBroBot - 帮助管理频道或群，发送消息，绑定 RSS 等，功能略少。
+- [Group Butler](https://t.me/GroupButler_bot) / @GroupButler_bot - 帮助管理群组，比如发送新成员欢迎信息，防灌水等等。功能还不错，老牌工具。
 - [LikeBot](https://t.me/like) / @like - 给消息加上 emoji 按钮，用户可以点击，计数，比如 👍 / 👎。
 - [Manybot](https://t.me/Manybot) / @Manybot - 帮你创建自己的 bot，可以自动回复、定时发信息等，高级功能比较复杂，还能定制菜单什么的。
 - [Telegraph](https://t.me/telegraph) / @telegraph - 登录 https://telegra.ph 并管理文章，可以看到浏览计数。文章多的时候管理起来可能不是那么方便。
