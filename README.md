@@ -4,12 +4,13 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T16:44:05+08:00, r25 .
+// Last Modified: 2017-10-08T16:51:39+08:00, r26 .
 
 
 
 ## Assistance
 
+- [ChannelBro](https://t.me/ChannelBroBot) / @ChannelBroBot - 帮助管理频道或群，发送消息，绑定 RSS 等，功能略少。
 - [LikeBot](https://t.me/like) / @like - 给消息加上 emoji 按钮，用户可以点击，计数，比如 👍 / 👎。
 - [VoteBot](https://t.me/vote) / @vote - 创建投票，比 @PollBot 形式更直观，用按钮投票，产生群聊消息更少。
 
