@@ -2,7 +2,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T16:00:43+08:00, r18 .
+// Last Modified: 2017-10-08T16:04:13+08:00, r19 .
 
 ## Assistance
 
@@ -30,6 +30,9 @@ Manual picked bot of Telegram.
 - [YouTube Search](https://t.me/vid) / @vid - 搜索 YouTube 视频并分享。
 
 ## Picture and Movie
+
+- [GifTube](https://t.me/giftubebot) / @giftubebot - 截取 YouTube, Vimeo 视频并以 gif 形式发到 Telegram。可以指定时间，最长截取 30 秒。画面大小限定不可设置，稍小了点。
+
 
 - [ImageBot](https://t.me/imagebot) / @ImageBot - 搜索图片或 gif 图。
 - [Save Video Bot](https://t.me/SaveVideoBot) / @SaveVideoBot - 下载各类视频，比如 YouTube 或 Twitter。不提供成人网站内容下载。小的视频会直接上传到 Telegram，大于 50M 的会提供一个页面浏览器下载。
