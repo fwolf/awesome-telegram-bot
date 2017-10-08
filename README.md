@@ -2,7 +2,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T12:21:58+08:00, r15 .
+// Last Modified: 2017-10-08T12:32:27+08:00, r16 .
 
 ## Assistance
 
@@ -11,7 +11,9 @@ Manual picked bot of Telegram.
 
 ## Connect with Services
 
-- [**EH Forwarder Bot** (EFB)](https://github.com/blueset/ehForwarderBot) / @EFBSupport - 连通 Telegram 与其他聊天工具，比如微信。这并不是一个可以直接使用的 bot，而是需要自己有主机、自建 bot 运行，配置略复杂。
+- [EH Forwarder Bot (EFB)](https://github.com/blueset/ehForwarderBot) / @EFBSupport - 连通 Telegram 与其他聊天工具，比如微信。这并不是一个可以直接使用的 bot，而是需要自己有主机、自建 bot 运行，配置略复杂。
+  - [非官方中文帮助，易懂，内容可能略过时](https://blog.1a23.com/2017/01/09/EFB-How-to-Send-and-Receive-Messages-from-WeChat-on-Telegram-zh-CN/) 。
+  - 用户交流群：参见 [官方支持频道 @EFBSupport](https://t.me/EFBSupport) 中的 [消息](https://t.me/EFBSupport/19) 。
 
 ## Index and Search
 
