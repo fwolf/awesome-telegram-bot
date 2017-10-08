@@ -2,7 +2,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-08T12:32:27+08:00, r16 .
+// Last Modified: 2017-10-08T15:56:49+08:00, r17 .
 
 ## Assistance
 
@@ -31,6 +31,7 @@ Manual picked bot of Telegram.
 ## Picture and Movie
 
 - [ImageBot](https://t.me/imagebot) / @ImageBot - 搜索图片或 gif 图。
+- [Save Video Bot](https://t.me/SaveVideoBot) / @SaveVideoBot - 下载各类视频，比如 YouTube 或 Twitter。不提供成人网站内容下载。小的视频会直接上传到 Telegram，大于 50M 的会提供一个页面浏览器下载。
 - [YouTube Bot](https://t.me/youtube) / @youtube - 既能像 @vid 那样直接搜索分享，还能绑定 YouTube 帐号推送频道中新增的视频。
 
 ## License
