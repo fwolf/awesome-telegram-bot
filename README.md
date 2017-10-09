@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-09T14:34:33+08:00, r64 .
+// Last Modified: 2017-10-09T14:39:32+08:00, r65 .
 
 
 
@@ -12,6 +12,7 @@ Manual picked bot of Telegram.
 
 - [ChannelBro](https://t.me/ChannelBroBot) / @ChannelBroBot - 帮助管理频道或群，发送消息，绑定 RSS 等，功能略少。
 - [Channels](https://t.me/junction_bot) / @junction_bot - 将多个频道合并转发到频道或群组。收费服务，免费帐号限定 10 个活动频道。自动给一个月的收费帐号体验，限定 100 个活动频道。
+- [Combot](https://t.me/combot) / @combot - 群聊统计。统计项较丰富，用网页展示统计结果，也没多余的命令，不干扰聊天。
 - [Controller Bot](https://t.me/ControllerBot) / @ControllerBot - 管理频道工具，比如定制发信息。需要用到自建 bot token。
 - [GetIDs Bot](https://t.me/getidsbot) / @getidsbot - 获取用户 ID、注册时间等信息，能获取转发消息的原始发送时间、文件的内部 ID（没用啊）。
 - [Group Butler](https://t.me/GroupButler_bot) / @GroupButler_bot - 帮助管理群组，比如发送新成员欢迎信息，防灌水等等。功能还不错，老牌工具。
