@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-09T13:57:24+08:00, r58 .
+// Last Modified: 2017-10-09T14:03:13+08:00, r59 .
 
 
 
@@ -61,6 +61,10 @@ Manual picked bot of Telegram.
   - ![@codercalbot - 1](https://user-images.githubusercontent.com/67877/31326257-1c82161c-acf8-11e7-927d-17ea71e0d367.png) ![@codercalbot - 2](https://user-images.githubusercontent.com/67877/31326262-22176352-acf8-11e7-8f52-15a7d0ceb79e.png)
 - [王境泽](https://t.me/wangjingze_bot) / @wangjingze_bot - 用 4 句话生成动画。也可直接对话，发送四行回车分割的文字。
   - ![@wangjingze_bot](https://user-images.githubusercontent.com/67877/31315439-3c5106cc-ac4b-11e7-85d6-808f9eb36809.gif)
+- [我可能是用了假的bot](https://t.me/fakeit_bot) / @fakeit_bot - 自定义文字造图，有三种用法。（2017-10-09 bot 不响应）
+  - 词语1（我的内心没有丝毫波动，甚至还想词语1）
+  - 词语1 词语2（我可能是词语1了假词语2）
+  - 词语1（尽管后面的） 词语2（算你赢前面的） 词语3（台子上的）
 
 
 
