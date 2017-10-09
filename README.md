@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-09T14:57:40+08:00, r68 .
+// Last Modified: 2017-10-09T17:27:02+08:00, r69 .
 
 
 
@@ -97,6 +97,7 @@ Manual picked bot of Telegram.
 - [ImageBot](https://t.me/imagebot) / @ImageBot - 搜索图片或 gif 图。
 - [insta Downloader](https://t.me/InstagramRobot) / @InstagramRobot - 下载给定 Instagram 网址对应的图片或视频。
 - [Save Video Bot](https://t.me/SaveVideoBot) / @SaveVideoBot - 下载各类视频，比如 YouTube 或 Twitter。不提供成人网站内容下载。小的视频会直接上传到 Telegram，大于 50M 的会提供一个页面浏览器下载。
+- [tube2gif](https://t.me/tube2gif_bot) / @tube2gif_bot - YouTube 视频转 gif 图片，按提示一步一步来，最长 20 秒，画面和 @giftubebot 一样小。
 - [URL Uploader](https://t.me/utubebot) / @utubebot - 帮你下载文件并上传到 Telegram，文件限 500M 以下，每天限 1G 上传量，可付费升级。支持 PornHub 哦。
 - [Video to GIF Converter](https://t.me/vgifbot) / @vgifbot - 把视频转换成 gif 图片，可下载。视频限制一分钟以内。转换结果有水印。
 - [YouTube Bot](https://t.me/youtube) / @youtube - 既能像 @vid 那样直接搜索分享，还能绑定 YouTube 帐号推送频道中新增的视频。
