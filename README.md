@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-09T14:12:27+08:00, r61 .
+// Last Modified: 2017-10-09T14:18:02+08:00, r62 .
 
 
 
@@ -19,6 +19,7 @@ Manual picked bot of Telegram.
 - [Manybot](https://t.me/Manybot) / @Manybot - 帮你创建自己的 bot，可以自动回复、定时发信息等，高级功能比较复杂，还能定制菜单什么的。
 - [MarkdownBot](https://t.me/mdrobot) / @mdrobot - 格式化 Markdown 格式的信息。也可以工作在 inline 模式下。
 - [Telegraph](https://t.me/telegraph) / @telegraph - 登录 https://telegra.ph 并管理文章，可以看到浏览计数。文章多的时候管理起来可能不是那么方便。
+- [TYPCN NLP Analysis](https://t.me/typcn_soliloquize_bot) / @typcn_soliloquize_bot - 群聊记录和语言分析、搜索、发言排名等功能。只对添加了这个机器人的群有效。
 - [VoteBot](https://t.me/vote) / @vote - 创建投票，比 @PollBot 形式更直观，用按钮投票，产生群聊消息更少。
 
 
