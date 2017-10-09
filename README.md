@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-09T13:41:50+08:00, r56 .
+// Last Modified: 2017-10-09T13:46:51+08:00, r57 .
 
 
 
@@ -56,6 +56,8 @@ Manual picked bot of Telegram.
 - [Yaplus Bot](https://t.me/yaplus_bot) / @yaplus_bot - 生成配文字的二次元头像图片。
   - ![@yaplus_bot](https://user-images.githubusercontent.com/67877/31315285-c12991d8-ac47-11e7-81de-5c1dec14d378.png)
 - [YouTube Search](https://t.me/vid) / @vid - 搜索 YouTube 视频并分享。
+- [程序员老黄历beta](https://t.me/codercalbot) / @codercalbot - 不带参数是程序员老黄历、日上三竿老黄历，带参数是求签。
+  - ![@codercalbot - 1](https://user-images.githubusercontent.com/67877/31326257-1c82161c-acf8-11e7-927d-17ea71e0d367.png) ![@codercalbot - 2](https://user-images.githubusercontent.com/67877/31326262-22176352-acf8-11e7-8f52-15a7d0ceb79e.png)
 - [王境泽](https://t.me/wangjingze_bot) / @wangjingze_bot - 用 4 句话生成动画。也可直接对话，发送四行回车分割的文字。
   - ![@wangjingze_bot](https://user-images.githubusercontent.com/67877/31315439-3c5106cc-ac4b-11e7-85d6-808f9eb36809.gif)
 
