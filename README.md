@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-09T14:18:02+08:00, r62 .
+// Last Modified: 2017-10-09T14:24:18+08:00, r63 .
 
 
 
@@ -54,6 +54,7 @@ Manual picked bot of Telegram.
 不需要和 bot 对话，在其他的任意对话中：`@botName 参数1 参数2` 就可以使用了。
 
 - [Giphy GIF Search](https://t.me/gif) / @gif - 搜索 gif 图。
+- [Hide It Bot](https://t.me/HideItBot) / @HideItBot - 隐藏消息文字，点击按钮后才可见。（2017-10-09 不工作）
 - [StickerBot](https://t.me/sticker) / @sticker - 按 emoji 搜贴纸，用来找陌生贴纸有点用。
 - [Text 2 Speech Bot](https://t.me/Txt2SpeechBot) / @Txt2SpeechBot - 文本转成语音（朗读），可选语言，有中文，限 200 字以内。
 - [Yaplus Bot](https://t.me/yaplus_bot) / @yaplus_bot - 生成配文字的二次元头像图片。
