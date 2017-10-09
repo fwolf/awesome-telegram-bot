@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-09T14:24:18+08:00, r63 .
+// Last Modified: 2017-10-09T14:34:33+08:00, r64 .
 
 
 
@@ -78,6 +78,7 @@ Manual picked bot of Telegram.
 - [Nagato Yuki](https://t.me/SBisnotBot) / @SBisnotBot - 查询 AQI、获取随机图片等。但个人觉得最有用且没文档的功能是，给他发一个包含多张图片的 Twitter 推文地址，他会把几张图片都下载下来发到 Telegram 上，而 Telegram 预览只能看到一张。
 - [TempMail](https://t.me/temp_mail_bot) / @temp_mail_bot - 生成临时邮箱，可手工保留邮箱地址。
 - [tlgur](https://t.me/tlgurbot) / @tlgurbot - 为 Telegram 中的图片、动画、视频、音频信息提供普通 HTTP 下载，没有 Telegram 也能下载到。用这个下载语音信息不错。
+- [Translate_Bot](https://t.me/Translate_Bot) / @Translate_Bot - Telegram version of inTranslation iOS app，简单的翻译功能，支持整句。
 - [WordBot](https://t.me/LexicoBot) / @LexicoBot - 英英词典。
 - [Yandex.Translate](https://t.me/YTranslateBot) / @YTranslateBot - 翻译，可选择从什么语言翻译到什么语言。翻译单词略简单，但支持整句翻译。
 
