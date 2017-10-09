@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-09T14:39:32+08:00, r65 .
+// Last Modified: 2017-10-09T14:46:53+08:00, r66 .
 
 
 
@@ -58,6 +58,8 @@ Manual picked bot of Telegram.
 - [Hide It Bot](https://t.me/HideItBot) / @HideItBot - 隐藏消息文字，点击按钮后才可见。（2017-10-09 不工作）
 - [StickerBot](https://t.me/sticker) / @sticker - 按 emoji 搜贴纸，用来找陌生贴纸有点用。
 - [Text 2 Speech Bot](https://t.me/Txt2SpeechBot) / @Txt2SpeechBot - 文本转成语音（朗读），可选语言，有中文，限 200 字以内。
+- [Text sticker](https://t.me/big_text_bot) / @big_text_bot - 生成大字图片。有趣的是，他自动将所有用户生成的图片匿名发送到了[一个频道](https://t.me/joinchat/AAAAAEJEZ9HK1pmDJMS5ZQ)，可以进去参观。
+  - ![@big_text_bot](https://user-images.githubusercontent.com/67877/31327242-9b2d3c50-ad00-11e7-8ca7-ef7f1388f232.png)
 - [Yaplus Bot](https://t.me/yaplus_bot) / @yaplus_bot - 生成配文字的二次元头像图片。
   - ![@yaplus_bot](https://user-images.githubusercontent.com/67877/31315285-c12991d8-ac47-11e7-81de-5c1dec14d378.png)
 - [YouTube Search](https://t.me/vid) / @vid - 搜索 YouTube 视频并分享。
