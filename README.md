@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-09T17:45:07+08:00, r70 .
+// Last Modified: 2017-10-15T11:53:03+08:00, r71 .
 
 
 
@@ -87,6 +87,7 @@ Manual picked bot of Telegram.
 - [Translate_Bot](https://t.me/Translate_Bot) / @Translate_Bot - Telegram version of inTranslation iOS app，简单的翻译功能，支持整句。
 - [WordBot](https://t.me/LexicoBot) / @LexicoBot - 英英词典。
 - [Yandex.Translate](https://t.me/YTranslateBot) / @YTranslateBot - 翻译，可选择从什么语言翻译到什么语言。翻译单词略简单，但支持整句翻译。
+- [双拼小教练](https://t.me/udpn_bot) / @udpn_bot - 练习双拼的小工具，支持多种方案。
 
 
 
