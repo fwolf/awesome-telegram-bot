@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-15T11:53:03+08:00, r71 .
+// Last Modified: 2017-10-27T12:53:53+08:00, r72 .
 
 
 
@@ -111,6 +111,7 @@ Manual picked bot of Telegram.
 ## Sticker Tools
 
 - [Favorite Stickers](https://t.me/FavoriteStickersBot) / @FavoriteStickersBot - 把一些单张贴纸发给他，他帮你生成一个贴纸集。不过好像一个用户只支持一个贴纸集，如果能支持多个就相当好用了。
+- [Sticker Downloader](https://t.me/Stickerdownloadbot) / @Stickerdownloadbot - 单张贴纸或整个贴纸导出，有 jpg 以及 png 格式。
 - [Sticker to image](https://t.me/st2imgbot) / @st2imgbot - 把单张贴纸转换成 png 图片。
 - [StickerSetBot](https://t.me/stickerset2packbot) / @stickerset2packbot - 发给他贴纸，帮你转换成图片打包下载。一个包最多一百张贴纸。可自定义格式和图片尺寸。
 - [TG Downloader](https://t.me/GIFDownloader_bot) / @GIFDownloader_bot - 给他贴纸包的地址，他帮你打包所有 png 图片成 zip 下载。其实这个 bot 最初的功能是导出 gif 动画，但原生只能导出 mp4 的 HTTP 下载地址，配合 workflow（手机软件） 可以转换成 gif 图片。
