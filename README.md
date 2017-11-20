@@ -4,7 +4,7 @@
 
 Manual picked bot of Telegram.
 
-// Last Modified: 2017-10-27T12:53:53+08:00, r72 .
+// Last Modified: 2017-11-20T12:29:15+08:00, r73 .
 
 
 
@@ -28,6 +28,7 @@ Manual picked bot of Telegram.
 ## Connect with Services
 
 - [chanel2rssBot](https://t.me/Channel2RSSBot) / @Channel2RSSBot - 将频道内容输出成 RSS 或者 ATOM 格式。结果更新有延迟，不过暂时没找到其他 RSS 生成工具。
+- [DriveIt](https://t.me/DriveItBot) / @DriveItBot - 上传图片、文档、语音等到 Google Drive 网盘。
 - [EH Forwarder Bot (EFB)](https://github.com/blueset/ehForwarderBot) / @EFBSupport - 连通 Telegram 与其他聊天工具，比如微信。这并不是一个可以直接使用的 bot，而是需要自己有主机、自建 bot 运行，配置略复杂。
   - [非官方中文帮助，易懂，内容可能略过时](https://blog.1a23.com/2017/01/09/EFB-How-to-Send-and-Receive-Messages-from-WeChat-on-Telegram-zh-CN/) 。
   - 用户交流群：参见 [官方支持频道 @EFBSupport](https://t.me/EFBSupport) 中的 [消息](https://t.me/EFBSupport/19) 。
