@@ -106,6 +106,7 @@ Manual picked bot of Telegram.
 - [YouTube Bot](https://t.me/youtube) / @youtube - 既能像 @vid 那样直接搜索分享，还能绑定 YouTube 帐号推送频道中新增的视频。
 - [YouTube Downloader](https://t.me/utubebot) / @utubebot - 从 YouTube 下载视频，可选精度，可选获取 HTTP 链接，可选转成 mp3 格式。慢。有时会推送广告。
 - [YouTubeConvertBot](https://t.me/YoutubeConvertBot) / @YoutubeConvertBot - 下载 YouTube 视频，或转换成音频，或上传到 Telegram/GoogleDrive。
+- [Cyber Collector](https://t.me/cybercollectorbot) / @cybercollectorbot - 免费下载 TikTok（无水印）、Instagram Reels/Stories、YouTube+Shorts、X/Twitter、Facebook 视频。无需注册，无广告。[官网](https://cybercollector.hitkey.io)
 
 
 
