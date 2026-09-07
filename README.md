@@ -80,6 +80,8 @@ Manual picked bot of Telegram.
 
 ## Miscellaneous Tools
 
+- [Vacato](https://t.me/vacato_bot) / @vacato_bot - RDAP domain availability watchlist alerts (free 10); not a drop-catcher � https://vacato.io
+
 - [APK Downloader](https://t.me/apkdl_bot) / @apkdl_bot - 帮你从 Google Play 下载 apk 文件。
 - [Fake Mail](https://t.me/fakemailbot) / @fakemailbot - 生成临时邮箱地址，可以收到信的。可以生成多个，可以随时删除。
 - [Nagato Yuki](https://t.me/SBisnotBot) / @SBisnotBot - 查询 AQI、获取随机图片等。但个人觉得最有用且没文档的功能是，给他发一个包含多张图片的 Twitter 推文地址，他会把几张图片都下载下来发到 Telegram 上，而 Telegram 预览只能看到一张。
